@@ -36,4 +36,7 @@ tr:hover {
   line-height: 2 !important; /* Adjust the value as needed (e.g., 1, 1.2, 1.5) */
 }
 
+.highlight {
+	font-size: 14px; /* Smaller font size for part of the h3 */
+}
 
