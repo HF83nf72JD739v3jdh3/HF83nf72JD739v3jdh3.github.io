@@ -1,7 +1,7 @@
 title: National Elections Database
 remote_theme: aterenin/minima-reboot # base theme to be loaded
 baseurl: "" # Empty as site is in base folder
-url: https://HF83nf72JD739v3jdh3.github.io # GitHub Pages URL
+url: https://nationalelectionsdatabase.com # GitHub Pages URL
 
 plugins:
   - jekyll-seo-tag
